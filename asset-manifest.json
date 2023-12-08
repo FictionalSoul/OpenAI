@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/openai/static/css/main.a910e974.css",
+    "main.js": "/openai/static/js/main.472c0c54.js",
+    "static/media/ai.png": "/openai/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/openai/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/openai/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/openai/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/openai/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/openai/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/openai/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/openai/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/openai/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/openai/index.html",
+    "main.a910e974.css.map": "/openai/static/css/main.a910e974.css.map",
+    "main.472c0c54.js.map": "/openai/static/js/main.472c0c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a910e974.css",
+    "static/js/main.472c0c54.js"
+  ]
+}
